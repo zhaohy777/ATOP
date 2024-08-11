@@ -1,5 +1,5 @@
 # ATP
-Adversarial Topic-aware Prompt-tuning for Cross-topic Automated Essay Scoring
+Code for Paper "ATP:Adversarial Topic-aware Prompt-tuning for Cross-topic Automated Essay Scoring"
 
 ### Requirements
 ```
