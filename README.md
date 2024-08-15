@@ -1,5 +1,5 @@
-# ATP
-Code for Paper "ATP:Adversarial Topic-aware Prompt-tuning for Cross-topic Automated Essay Scoring"
+# ATOP
+Code for Paper "ATOP:Adversarial TOpic-aware Prompt-tuning for Cross-topic Automated Essay Scoring"
 
 ### Requirements
 ```
